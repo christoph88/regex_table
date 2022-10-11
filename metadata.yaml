@@ -1,5 +1,5 @@
 homepage: "https://christoph88.github.io/"
 documentation: "https://github.com/christoph88/regex_table/blob/main/README.md"
 versions:
-  - sha: 5f02a788b90ae804f86b04aa24af8937e567874a
+  - sha: c73487cbd28001466f84634e2e046d9c22495351
     changeNotes: Initial release.
